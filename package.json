@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/d6rkaiz/zennlog#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.21"
+    "zenn-cli": "^0.1.33"
   }
 }
