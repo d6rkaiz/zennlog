@@ -2,7 +2,7 @@
 title: "Debianでポートノッキング"
 emoji: "🔑"
 type: "tech"
-topics: ["PortKnocking", "Security", "SSH", "ufw"]
+topics: ["PortKnocking", "Security", "SSH", "ufw", "Debian"]
 published: true
 ---
 
